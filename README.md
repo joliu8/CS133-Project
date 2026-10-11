@@ -1,10 +1,10 @@
 # CS133-Project
 Project Title: Waddle We Know? (Visualizing Penguin Dataset)
 
-Authors: Joyce Liu and Gigi Zhang  
+Authors: Joyce Liu and Gigi Zhang   
 
 Project Description: 
-- For this project, we will be using a [Penguin Dataset](https://www.kaggle.com/code/tirendazacademy/penguin-dataset-data-visualization-with-seaborn/notebook). We plan to clean the data by dropping categorical data and using imputation methods for numerical data. We plan to create static visualizations/graphs to better understand the characteristics of the dataset. We will also perform statistical tests to compare groups and test hypotheses. Finally, we will create an interactive dashboard for users to explore the data on their own.  
+- For this project, we will be using a [Penguin Dataset](https://www.kaggle.com/code/tirendazacademy/penguin-dataset-data-visualization-with-seaborn/notebook). We plan to clean the data by dropping categorical data and using imputation methods for numerical data. We plan to create static visualizations/graphs to better understand the dataset characteristics. We will also perform statistical tests to compare groups and test hypotheses. Finally, we will create an interactive dashboard so users can explore the data on their own.  
 
 Project Outline/Plan:
 - Interface Plan:   
