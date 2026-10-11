@@ -17,7 +17,7 @@ Project Outline/Plan:
 - Data Analysis and Visualization Plan:  
     - Data Analysis:
         - Two-sample t-test or ANOVA: To compare body mass or flipper length across different species or sexes
-        - Chi-Square Test of Independence: To see if species distribution depends on the island they live on.
+        - Chi-Square Test of Independence: To see if species distribution depends on the island they live on
     - Static Visualizations:
         1. Bar chart by species
         2. Scatter plot of culmen length vs culmen depth
@@ -25,4 +25,4 @@ Project Outline/Plan:
         4. Box Plot of flipper length by sex and penguin species
         5. Heatmap of the correlations between numerical variables
     - Interactive Dashboard:
-        - User can: choose columns/variables, type of graph/plot, hover over data points, choose color palette
+        - User can: select variables/type of graph/color palette and hover over data points
